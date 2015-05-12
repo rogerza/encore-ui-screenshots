@@ -1,5 +1,7 @@
 # encore-ui-screenshots
 
+foo change
+
 A place to catalog the visual history of https://github.com/rackerlabs/encore-ui through visual regression testing in Selenium.
 
 ## How it's set up
